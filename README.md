@@ -27,7 +27,8 @@ Hands:
 11 degrees of freedom
 
 ## Developers (list of names)
-
+- Elon Musk (CEO)
+- [Lizzie Miskovetz](https://www.linkedin.com/in/lizziemiskovetz/)
 
 ## List of Open Positions
 https://www.tesla.com/careers/search/?query=Autonomy&site=US
