@@ -30,6 +30,8 @@ Hands:
 - Elon Musk (CEO)
 - [Lizzie Miskovetz](https://www.linkedin.com/in/lizziemiskovetz/)
 - [Kate Park](https://www.linkedin.com/in/kateparkmenlo)
+- [Milan Padilla](https://www.linkedin.com/in/milanpadilla)
+- 
 - 
 ## List of Open Positions
 https://www.tesla.com/careers/search/?query=Autonomy&site=US
