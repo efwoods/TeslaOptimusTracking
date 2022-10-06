@@ -29,6 +29,7 @@ Hands:
 ## Developers (list of names)
 - Elon Musk (CEO)
 - [Lizzie Miskovetz](https://www.linkedin.com/in/lizziemiskovetz/)
-
+- [Kate Park](https://www.linkedin.com/in/kateparkmenlo)
+- 
 ## List of Open Positions
 https://www.tesla.com/careers/search/?query=Autonomy&site=US
