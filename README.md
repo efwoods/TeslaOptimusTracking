@@ -31,6 +31,8 @@ Hands:
 - [Lizzie Miskovetz](https://www.linkedin.com/in/lizziemiskovetz/)
 - [Kate Park](https://www.linkedin.com/in/kateparkmenlo)
 - [Milan Padilla](https://www.linkedin.com/in/milanpadilla)
+- [Anand](https://www.linkedin.com/in/anand-swaminathan-a312304b)
+- 
 
 ## List of Open Positions
 https://www.tesla.com/careers/search/?query=Autonomy&site=US
